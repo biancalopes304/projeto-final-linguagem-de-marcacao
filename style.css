@@ -193,3 +193,13 @@ nav a:hover{
     text-align: center;
 
 }
+
+footer{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+footer p{
+    color: white;
+    font-size: 14px;
+}
